@@ -1,5 +1,3 @@
-figlet  -f small admin user wordpress 
-
 import json 
 
 site = input('Enter The Target: ')
